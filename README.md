@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXJueXJueXJueXJueXJueXJueXJueXJueXJueZ&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
 <h1 align="center">Hi, I'm Henrique! 👋</h1>
 
 <div align="center">
