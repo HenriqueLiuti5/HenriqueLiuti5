@@ -12,8 +12,7 @@
 <br />
 
 <div align="center">
-  Fullstack Developer passionate about building robust backend architectures and intuitive user experiences.
-  Currently focused on <b>Django</b>, <b>FastAPI</b> and <b>Flask</b>
+  Fullstack Developer
 </div>
 
 ---
@@ -25,15 +24,8 @@
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ---
-
-### 🚀 Featured Projects
-
-- **Router Management System:** A specialized platform for routers administration.
-- **Stock Management:** An inventory control system featuring advanced role-based access control (RBAC).
