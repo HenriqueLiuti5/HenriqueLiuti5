@@ -27,4 +27,4 @@
 ## 📫 Contact
 
 📧 henrique.liuti5@gmail.com  
-💼 linkedin.com/in/henriqueliuti  
+💼 [linkedin.com/in/henriqueliuti  ](https://www.linkedin.com/in/henriqueliuti/)
